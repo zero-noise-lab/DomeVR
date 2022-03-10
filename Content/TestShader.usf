@@ -1,0 +1,14 @@
+#pragma once
+struct Functions
+{
+  float3 OrangeBright(float3 c)
+  {
+      return c * float3(1, .7, 0);
+  }
+  float3 Out()
+  {
+    return OrangeBright(InColor);
+  }
+};
+Functions f;
+return f.Out();
