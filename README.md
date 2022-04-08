@@ -7,8 +7,8 @@ Complete UE4 project DomeVR providing a research tool for creating immersive and
 - Unreal Engine 4.24
 - Windows 10
 - NVIDIA Surround enabled graphics card
-- An experimenter screen and subject projector with matching resolutions 
-- Plugins added to Plugin folder as described below
+- An experimenter screen and subject projector with matching resolutions and refresh rates
+- Plugins added to Plugins folder as described below
 
 # Necessary Plugins
 
