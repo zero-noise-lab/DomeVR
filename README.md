@@ -1,8 +1,18 @@
 # DomeVR
 <img src="https://user-images.githubusercontent.com/89643686/157832500-1e7e5363-8055-4f68-acc5-13bd90170823.svg" width=50% height=50%>
-Complete UE4 project DomeVR providing a research tool for creating immersive and naturalistic 3D behavioural tasks that are used in neurphysiological experiments. All commercial content and custom made blueprints that referenced this content were removed due to licensing issues. Furthermore, the project requires one commercial plugins as well as a number of free plugins that can be downloaded from this repository or elsewhere if not already included. 
+Complete UE4 project DomeVR providing a research tool for creating immersive and naturalistic 3D behavioural tasks that are used in neurphysiological experiments. For details see our preprint here: https://www.biorxiv.org/content/10.1101/2022.04.04.486889v1.
+
+# Requirements
+
+- Unreal Engine 4.24
+- Windows 10
+- NVIDIA Surround enabled graphics card
+- An experimenter screen and subject projector with matching resolutions 
+- Plugins added to Plugin folder as described below
 
 # Necessary Plugins
+
+All commercial content and custom made blueprints that referenced this content were removed due to licensing issues. Furthermore, the project requires one commercial plugins as well as a number of free plugins that can be downloaded from this repository or elsewhere if not already included. 
 
 ## Commercial Plugins
 
